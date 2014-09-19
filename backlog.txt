@@ -1,0 +1,155 @@
+9.15.14-9.21.14
+=================================================
+-buy fabrics for collection 3 $400/ send purchase orders to neman, star, UFI and fabric avenue
+-cut and sew 12 finished garments
+-sync quickbooks accounting
+-take pictures of finished garments
+-send resume to 10 companies
+-follow up with Miss Me, Asher Concepts, Cotton Candy LA, Mighty Fine, True Religion, Buffalo Exchange, JustFab, Fashion Nova
+-sell all bags
+
+8.18.14-8.24.14
+=================================================
+
+-final draft lookbook
+-investigate printing lookbook, cost estimate
+-balance quickbooks (runway outlet check deposited)
+-get Quickbooks for mac, convert quickbook files over
+-clean up data
+-backup all data - add to Git
+-review 1st, 2nd, 3rd quarter sales; create pdf's for applicable reports
+-set 3rd/4th quarter budget
+-estimated fixed cost for 2nd half of the year
+-prepare all samples, fabrics, line sheets, notes etc for Dillards meeting
+-review status and move incomplete items to next week
+
+8.25.14-8.31.14
+=================================================
+-meeting with Dillards 8.26.14 at 11am
+-follow up with Runway and Media Noche
+-contact customers to setup appointments
+-visit stores of potential customer
+-sell iMac 
+-buy iMac with cs6 
+-go over fall cost sheet
+-add fall photos from photoshoot to website
+-photoshoot with Grace 8/31 10am
+-finalize location for lifestyle shoot (san gabriel mission, old town pasadena, old town monrovia, pasadena farmers market Holly/fair oaks)
+
+Backlog
+=================================================
+-convert backlog into a more descriptive table
+-investigate how to book short term/long term liability in quickbooks
+-review costing strategy
+-review sales strategy
+-centralize all data
+     -open dedicated juelip google account?
+     -use subversion (svn)? 
+     -online could storage?
+     -where to store all pictures? 
+     -when/how to backup data? 
+-apply for short term loan/balance transfer money
+-write story for website
+-create/estimate budget for next fiscal year
+-review dress inventory
+-review bag inventory
+-follow up with Media Noche, any sales? 
+-setup sewing instruction with Auntie Julie
+-5 year plan/strategy
+-create hang tag design
+-cost hang tags and labels add to BOMs
+-get quotes from sewers for production
+-go over monthly operating expenses/ budget
+-put fall line on website
+-look into concrete studios la for photo shoots
+
+8.4.14-8.10.14
+=================================================
+-review progress for last week
+-confirm fitting appointment with Auntie Julie and Evelyn - Tuesday 8.5
+-remake samples
+-confirm style numbers on photos are correct
+-compile list of style numbers for lookbook
+-create sales plan
+-create a list of potential customers to contact
+-review sales reports available in quickbook, create pdf's for applicable reports
+-set reasonable sales goal/quota
+-set reasonable 3rd/4th quarter sales projections
+-schedule photoshoot with Crystal - All dresses
+-schedule Danielle for second fitting
+-Diana fitting Wednesday PM
+-Klodi fitting on Tuesday
+-Sha and Danielle 2nd fitting thursday
+
+
+7.29.14-8.3.14
+=================================================
+-review progress for last week
+-give finished cut samples to auntie julie
+-adjust samples
+-finalize work flow chart
+-contact and schedule Sha, Diana, Klodi, Gracie for second fitting
+-create a weekly schedule manage time between design/production/sales
+-put T1011 and T1012 into BOM and inventory assembly
+-create sample tags for whole line
+-schedule photoshoot with Gracie- All dresses
+-adjust fall cost sheets
+-create fall inventory bill of materials for samples
+-create assemblies for fall samples already made
+-estimate raw materials left
+-contact Alyssa
+-new designs into illustrator
+-plan photoshoot for Gracie
+-photoshoot with Gracie 
+-scan spec sheets into computer
+
+7.20.14-7.27.14
+=================================================
+-review progress for last week
+-review 2nd quarter sales/accounting
+     -figure out how much the dresses cost for Liz Albert Sale
+     -estimate amount of raw material left
+     -verify the numbers match up with the accounting
+-file board of equalization tax (quarterly sales tax)
+-fitting with Crystal
+-initial photoshoot with Crystal
+-fitting with Gracie
+-revise fall patterns
+-create sizing chart: xs, s, m, l, xl 
+-recut fabric
+-launch www.juelip.com
+-fix contact us email message
+-figure out what/how we track fabric raw material for accounting
+-backup Q2 accounting data
+
+7.13.14 to 7.20.14
+=================================================
+-fit fall line with Klodi, Sha, Auntie Julie and Evelyn - Tuesday 7/15 6 pm
+-remake patterns
+-redesign website
+-review progress for last week
+-backup current state of quickbooks
+-download 2nd quarter banking information to quickbooks
+-take pictures of black dress from spring summer 2014
+-redesign website - simpify layout; make sure all dresses are on site
+-add all available dress styles to website
+
+7.7.14 to 7.9.14
+=================================================
+-schedule and fit fall line on Klodi
+-schedule and fit fall line on Sha
+-schedule review for fit feeback with Auntie Julie and Evelyn
+- review work flow chart
+-print 50 hang tags
+-attach 50 hang tags to inventory of dresses
+-sell spring/summer dresses to stores
+-go over class schedules between Otis, PCC and SMC - resolution: Otis Intro to Apparel and Construction July 19 to Aug 6 $495
+-fit fall dresses with Diana
+-send job applications
+-update about us page
+     -add picture of abby
+     -add contact info (info@juelip.com)
+     -add story and mission statement
+     -review with abby
+
+
