@@ -1,12 +1,14 @@
 9.29.14-10.5.14
 =================================================
 -research selling on Etsy
--complete 2 sewn samples
+-complete 1 sewn samples
 -complete sewing blk/white chevron dress
 -buy business check paper
+-review 1st, 2nd, 3rd quarter sales; create pdf's for applicable reports
+-set 3rd/4th quarter budget
+-estimated fixed cost for 2nd half of the year
 -review collection for revisions
 -go over new styles on quickbooks with Duy
--follow up with Asher Concepts, Mighty Fine, True Religion, Buffalo Exchange, JustFab
 -sell the 7 bags left
 -rebalance quickbooks
 
@@ -15,38 +17,14 @@
 =================================================
 -take pictures of finished garments
 -trace out missy dress pattern
+-follow up with Amber at Ya Los Angeles for Women’s Wholesale, Steven at HNC Apparel for Sales Rep, recruiting_t@yahoo.com for Store Account Executive, info@trendrequest.com for sales assistant
+-trunk show at Eileen’s house (bring all inventory and fall items)
 
-
-8.18.14-8.24.14
-=================================================
-
--final draft lookbook
--investigate printing lookbook, cost estimate
--balance quickbooks (runway outlet check deposited)
--get Quickbooks for mac, convert quickbook files over
--clean up data
--backup all data - add to Git
--review 1st, 2nd, 3rd quarter sales; create pdf's for applicable reports
--set 3rd/4th quarter budget
--estimated fixed cost for 2nd half of the year
--prepare all samples, fabrics, line sheets, notes etc for Dillards meeting
--review status and move incomplete items to next week
-
-8.25.14-8.31.14
-=================================================
--meeting with Dillards 8.26.14 at 11am
--follow up with Runway and Media Noche
--contact customers to setup appointments
--visit stores of potential customer
--sell iMac 
--buy iMac with cs6 
--go over fall cost sheet
--add fall photos from photoshoot to website
--photoshoot with Grace 8/31 10am
--finalize location for lifestyle shoot (san gabriel mission, old town pasadena, old town monrovia, pasadena farmers market Holly/fair oaks)
 
 Backlog
 =================================================
+-get Quickbooks for mac, convert quickbook files over
+-buy iMac with cs6 
 -convert backlog into a more descriptive table
 -investigate how to book short term/long term liability in quickbooks
 -review costing strategy
